@@ -6,8 +6,16 @@
 }
 
 @theme inline {
+  /* Base Colors */
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+
+  /* Custom Project Colors */
+  --color-primary: #2563eb;
+  --color-secondary: #1e40af;
+  --color-navy-900: #0f172a;
+
+  /* Fonts */
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
